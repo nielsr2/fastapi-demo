@@ -28,8 +28,9 @@ pip freeze > requirements.txt
 Main.py - Is the simplest fastAPI example - it loads some 'items' from data.json and returns them as a response (to react)
 main2.py - Is the fastAPI example, not with react, but just using jinja templates
 main3.py - Is the fastAPI example - with ability to add new 'items' to the list of items (json file)
-main4.py - uses huggingface api for silly check of whether image is of dog - 
+main4.py - uses huggingface api for silly check of whether image is of dog - only images of dogs can be added to the database
 
+(note that there's 3 versions of app.js that correspond to the different main.py files)
 
 Exercise ideas:
 
@@ -37,3 +38,5 @@ Exercise ideas:
 - implement CRUD operations (Create, Read, Update, Delete) for the items
 - Enhance the UI/UX - explore React libraries like Material-UI, Ant Design, etc. or other components
   - see https://github.com/brillout/awesome-react-components
+
+That's when the fun begins!  🚀
