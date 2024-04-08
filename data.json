@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dog 1",
+        "description": "Description of Item 1",
+        "imageUrl": "https://placebear.com/200/200"
+    },
+    {
+        "name": "Dog 2",
+        "description": "Description of Item 2",
+        "imageUrl": "https://placebacon.com/200/200"
+    },
+    {
+        "name": "Dog 3",
+        "description": "Description of Item 3",
+        "imageUrl": "https://placedog.net/200/200"
+    },
+    {
+        "name": "sadfasdf",
+        "description": "asdfasdf",
+        "imageUrl": "https://placedog.net/200/300"
+    }
+]

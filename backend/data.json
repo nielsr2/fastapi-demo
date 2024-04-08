@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Item 1",
+        "description": "Description of Item 1",
+        "imageUrl": "https://placebear.com/200/200"
+    },
+    {
+        "name": "Item 2",
+        "description": "Description of Item 2",
+        "imageUrl": "https://placebacon.com/200/200"
+    },
+    {
+        "name": "Item 3",
+        "description": "Description of Item 3",
+        "imageUrl": "https://placedog.net/200/200"
+    },
+    {
+        "name": "doge",
+        "description": "yes doge",
+        "imageUrl": "www.placedog.net/500/500"
+    }
+]
